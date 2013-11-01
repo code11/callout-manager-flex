@@ -55,7 +55,8 @@ Possible actions: ``` show, hide, hideall ```
  hideall: hides all visible callouts.
 ```
 [A working demo](http://code11.com/lab/experiments/flex/callout-manager/)
-[Example project](http://code11.com/lab/experiments/flex/callout-manager-example/)
+
+[Example project](https://github.com/code11/callout-manager-flex-example/)
 
 The manager also saves the state of the displayed callouts into a SharedObject. It might support different users in future versions.
 
